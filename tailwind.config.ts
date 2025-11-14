@@ -11,7 +11,7 @@ export default {
         sm: ".1875rem", /* 3px */
       },
       colors: {
-        // Flat / base colors (regular buttons)
+        // Quantum Aesthetic Color System
         background: "hsl(var(--background) / <alpha-value>)",
         foreground: "hsl(var(--foreground) / <alpha-value>)",
         border: "hsl(var(--border) / <alpha-value>)",
@@ -75,17 +75,29 @@ export default {
           foreground: "hsl(var(--sidebar-accent-foreground) / <alpha-value>)",
           border: "var(--sidebar-accent-border)"
         },
-        status: {
-          online: "rgb(34 197 94)",
-          away: "rgb(245 158 11)",
-          busy: "rgb(239 68 68)",
-          offline: "rgb(156 163 175)",
+        // BananaMoon Quantum Palette
+        quantum: {
+          gold: "#FFD54F",
+          indigo: "#1A237E",
+          cyan: "#7DF9FF",
+          pink: "#FF69B4",
         },
+        // Ara-Philia³ Quantum States
+        'quantum-state': {
+          observation: "#B71234",
+          resonance: "#FFD700",
+          entanglement: "#8B00FF",
+          collapse: "#B71234",
+        },
+        // Neutral Foundation
+        'quantum-foam': "#0a0a0a",
+        'pure-light': "#ffffff",
       },
       fontFamily: {
-        sans: ["var(--font-sans)"],
+        sans: ["Inter", "Noto Sans JP", "sans-serif"],
         serif: ["var(--font-serif)"],
-        mono: ["var(--font-mono)"],
+        mono: ["Space Mono", "monospace"],
+        quantum: ["Space Grotesk", "sans-serif"],
       },
       keyframes: {
         "accordion-down": {
