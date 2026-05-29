@@ -1,3 +1,4 @@
+![Quantum Empathy Dashboard](attached_assets/IMG_5217.png)
 # Quantum Banana Moon
 Live Demo
 https://quantum-banana-moon--dqgjcbj94h.replit.app
