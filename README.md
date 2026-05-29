@@ -1,5 +1,6 @@
 # Quantum Banana Moon
-
+Live Demo
+https://quantum-banana-moon--dqgjcbj94h.replit.app
 Can a beautiful question change human behavior?
 
 Experimental MVP exploring prompt ambiguity,
