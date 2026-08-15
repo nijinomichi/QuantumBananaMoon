@@ -1,3 +1,9 @@
+# Archived Replit Runtime Record
+
+> The active runtime moved to Vercel on 2026-08-15 (JST). This file preserves
+> the prior Replit-era architecture for recovery and provenance only; it is not
+> deployment instruction. See [`docs/operations/vercel-migration.md`](docs/operations/vercel-migration.md).
+
 # BananaSpace - Quantum Aesthetics Platform
 
 ## Overview
